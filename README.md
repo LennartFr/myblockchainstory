@@ -37,4 +37,4 @@ https://hyperledger-fabric.readthedocs.io/en/latest/samples.htm
 ## [Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#hyperledger-fabric-samples)
 ## [Building your first network](http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html)
 
-* [Writing your first application](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
+# [Writing your first application](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
