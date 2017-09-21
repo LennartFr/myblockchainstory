@@ -26,12 +26,6 @@ From time to time you encounter a technologty that changes your life. Like the w
 * hyperledger/fabric-peer           x86_64-1.0.2        0e2ed51971c9        2 weeks ago         154MBh
 * hyperledger/fabric-javaenv        x86_64-1.0.2        0be45dbd7ff4        2 weeks ago         1.41GB
 * hyperledger/fabric-ccenv          x86_64-1.0.2        d0f166e1a89e        2 weeks ago         1.28GB
-* hyperledger/fabric-ca             x86_64-1.0.1        5f30bda5f7ee        6 weeks ago         238MB
-* hyperledger/fabric-couchdb        x86_64-1.0.1        dd645e1e92c7        6 weeks ago         1.48GB
-* hyperledger/fabric-orderer        x86_64-1.0.1        bbf2708c9487        6 weeks ago         179MB
-* hyperledger/fabric-peer           x86_64-1.0.1        abb05def5cfb        6 weeks ago         182MB
-* hyperledger/fabric-ccenv          x86_64-1.0.1        7e2019cf8174        6 weeks ago         1.29GB
-
 
 https://hyperledger-fabric.readthedocs.io/en/latest/samples.htm
 
