@@ -6,9 +6,9 @@ Kill and remove all running containers, including all previously created Hyperle
 * _docker rmi $(docker images dev-* -q)_
 
 # Create a Blockchain network
-* **git clone https://github.com/hyperledger/fabric-samples.git**
-* **cd fabric-samples/fabcar**
-* **./startFabric.sh**
+* _git clone https://github.com/hyperledger/fabric-samples.git_
+* _cd fabric-samples/fabcar_
+* _./startFabric.sh_
 
 This command launches a peer node, ordering node, Certificate Authority and CLI container. It then 
 creates a channel and joins the peer to the channel.
