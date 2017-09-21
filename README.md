@@ -12,4 +12,5 @@ From time to time you encounter a technologty that changes your life. Like the w
 
 # [Blockchain on Bluemix](https://console.bluemix.net/catalog/services/blockchain/)
 
-
+# Let's install the Hyperledger Fabric!
+##[Getting Started](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
