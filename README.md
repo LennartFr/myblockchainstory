@@ -3,4 +3,6 @@ From time to time you encounter a technologty that changes your life. Like the w
 
 # It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) from October 2008 which addressed a key problem in electronic commerce: [Double Spending](http://www.investopedia.com/terms/d/doublespending.asp)
 
+# Blockchain Use cases
+
 
