@@ -5,4 +5,11 @@ From time to time you encounter a technologty that changes your life. Like the w
 
 # Blockchain Use cases
 
+# Blockchain Components and Hyperledger
+## Hyperledger Fabric
+## (https://github.com/hyperledger/composer)[Hyperledger Composer]
+## [Hyperledger composer](https://hyperledger.github.io/composer/)
+
+# [Blockchain on Bluemix](https://console.bluemix.net/catalog/services/blockchain/)
+
 
