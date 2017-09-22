@@ -1,4 +1,4 @@
-#Hyperledger Labs
+# Hyperledger Labs
 [Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
 
 * balance-transfer		
