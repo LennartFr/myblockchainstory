@@ -2,7 +2,13 @@
 From time to time you encounter a technologty that changes your life. Like the web, like smartphones, etc..
 
 # It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) from October 2008 which addressed a key problem in electronic commerce: [Double Spending](http://www.investopedia.com/terms/d/doublespending.asp)
-
+~~~
+A purely peer-to-peer version of electronic cash would allow online
+payments to be sent directly from one party to another without going through a
+financial institution. Digital signatures provide part of the solution, but the main
+benefits are lost if a trusted third party is still required to prevent double-spending.
+We propose a solution to the double-spending problem using a peer-to-peer network.
+~~~
 # Blockchain Use cases
 
 # Blockchain Components and Hyperledger
