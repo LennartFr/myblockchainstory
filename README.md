@@ -1,5 +1,5 @@
 # Blockchain beyond the scenes. 
-The story about a technology that is changing the world. 
+The story of a technology that is changing the world. 
 
 # It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) from October 2008 which addressed a key problem in electronic commerce:
 ~~~
