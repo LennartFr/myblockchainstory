@@ -1,3 +1,5 @@
+<img src="https://farm5.staticflickr.com/4253/34782265013_b6213136c7_o.png"> 
+
 # Blockchain beyond the scenes. 
 The story of a technology that is changing the world. 
 
