@@ -1,5 +1,5 @@
 #Hyperledger Labs
-[Hyperledger Fabric](http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
+[Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
 
 * balance-transfer		
 * chaincode-docker-devmode
