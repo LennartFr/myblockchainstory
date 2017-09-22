@@ -14,6 +14,13 @@ is still required to prevent double-spending.
 
 We propose a solution to the double-spending problem using a peer-to-peer network.
 ~~~
+
+# BitCoin and Blockchain
+
+* Assets over cryptocurrency
+* Identity over anonymity
+* Selective endorsement (consensus) over proof of work
+
 # Blockchain Use cases
 
 # Blockchain Components and Hyperledger
