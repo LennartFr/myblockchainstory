@@ -3,8 +3,9 @@
 
 [Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
 
-git clone https://github.com/hyperledger/fabric-samples.git
+* git clone https://github.com/hyperledger/fabric-samples.git
+* cd fabric-samples
+* curl -sSL https://goo.gl/Gci9ZX | bash
 
-cd fabric-samples
 
 
