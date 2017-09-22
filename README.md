@@ -1,5 +1,5 @@
 # Blockchain, this is the story about a technology that is changing the world. 
-# It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) from October 2008 which addressed a key problem in electronic commerce: [Double Spending](http://www.investopedia.com/terms/d/doublespending.asp)
+# It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) from October 2008 which addressed a key problem in electronic commerce:
 ~~~
 A purely peer-to-peer version of electronic cash would allow online
 payments to be sent directly from one party to another without going through a
