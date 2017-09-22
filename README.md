@@ -1,6 +1,6 @@
 <img src="https://farm5.staticflickr.com/4253/34782265013_b6213136c7_o.png"> 
 
-# Blockchain beyond the scenes. 
+# Blockchain from the code up. 
 The story of a technology that is changing the world. 
 
 # It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) from October 2008 which addressed a key problem in electronic commerce:
