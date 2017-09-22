@@ -13,7 +13,7 @@ From time to time you encounter a technologty that changes your life. Like the w
 # [Blockchain on Bluemix](https://console.bluemix.net/catalog/services/blockchain/)
 
 # Hyperledger components
- http://hyperledger-fabric.readthedocs.io/en/latest/samples.html
+ (http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
 
 * ===> List out hyperledger docker images
 * hyperledger/composer-playground   0.12.2            7 days ago     239MB
