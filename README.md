@@ -23,7 +23,10 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 
 # Blockchain Use cases
 
-# Blockchain Components and Hyperledger
+# Blockchain and Hyperledger
+~~~
+Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, is hosted by The Linux Foundation®. IBM provides blockchain solutions and services leveraging Hyperledger technologies, including Hyperledger Fabric and Hyperledger Composer.
+~~~
 ## [Hyperledger Fabric on Github](https://github.com/hyperledger/fabric)
 ## [Hyperledger Composer on GitHub](https://github.com/hyperledger/composer)
 ## [Hyperledger Composer](https://hyperledger.github.io/composer/)
