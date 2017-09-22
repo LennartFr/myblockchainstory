@@ -40,24 +40,6 @@ Response is
 
 $ docker ps
 
-dev-peer0.org1.example.com-fabcar-1.0-5c906e402ed29f20260ae42283216aa75549c571e2e380f3615826365d8269ba   "chaincode -peer.a..."   40 minutes ago      Up 40 minutes                                                        dev-peer0.org1.example.com-fabcar-1.0
--bash: 16d3c1e02a1f: command not found
-Arnes-MacBook-Pro:fabcar arnelennartfrantzell$ 809d03239e16        hyperledger/fabric-tools                                                                                 "/bin/bash"              40 minutes ago      Up 40 minutes                                                        cli
--bash: 809d03239e16: command not found
-Arnes-MacBook-Pro:fabcar arnelennartfrantzell$ bbbef8d78798        hyperledger/fabric-peer                                                                                  "peer node start"        40 minutes ago      Up 40 minutes       0.0.0.0:7051->7051/tcp, 0.0.0.0:7053->7053/tcp   peer0.org1.example.com
--bash: 7051/tcp,: No such file or directory
-Arnes-MacBook-Pro:fabcar arnelennartfrantzell$ 93f76ba1fef7        hyperledger/fabric-ca                                                                                    "sh -c 'fabric-ca-..."   40 minutes ago      Up 40 minutes       0.0.0.0:7054->7054/tcp                           ca.example.com
--bash: 7054/tcp: No such file or directory
-Arnes-MacBook-Pro:fabcar arnelennartfrantzell$ b62da84c854a        hyperledger/fabric-orderer                                                                               "orderer"                40 minutes ago      Up 40 minutes       0.0.0.0:7050->7050/tcp                           orderer.example.com
--bash: 7050/tcp: No such file or directory
-Arnes-MacBook-Pro:fabcar arnelennartfrantzell$ 5240655d2bf1        hyperledger/fabric-couchdb                                                                               "tini -- /docker-e..."   40 minutes ago      Up 40 minutes       4369/tcp, 9100/tcp, 0.0.0.0:5984->5984/tcp       couchdb
--bash: 5984/tcp: No such file or directory
-Arnes-MacBook-Pro:fabcar arnelennartfrantzell$ Arnes-MacBook-Pro:fabcar arnelennartfrantzell$ 
--bash: Arnes-MacBook-Pro:fabcar: command not found
-Arnes-MacBook-Pro:fabcar arnelennartfrantzell$ 5240655d2bf1        hyperledger/fabric-couchdb                                                                               "tini -- /docker-e..."   40 minutes ago      Up 40 minutes       4369/tcp, 9100/tcp, 0.0.0.0:5984->5984/tcp       couchdb
-
-
-
 
 
 
