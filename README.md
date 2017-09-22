@@ -36,8 +36,6 @@ including Hyperledger Fabric and Hyperledger Composer.
 ## [Hyperledger Composer on GitHub](https://github.com/hyperledger/composer)
 ## [Hyperledger Composer](https://hyperledger.github.io/composer/)
 
-# [Blockchain on Bluemix](https://console.bluemix.net/catalog/services/blockchain/)
-
 # Hyperledger components
  (http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
 
@@ -64,3 +62,5 @@ https://hyperledger-fabric.readthedocs.io/en/latest/samples.htm
 ## [Building your first network](http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html)
 
 # [Writing your first application](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
+
+# [Blockchain on Bluemix](https://console.bluemix.net/catalog/services/blockchain/)
